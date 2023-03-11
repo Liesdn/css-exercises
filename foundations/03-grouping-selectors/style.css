@@ -1,0 +1,14 @@
+.uno,
+.due {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.uno {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.due {
+    background-color: #ffff00
+}
